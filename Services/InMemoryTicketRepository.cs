@@ -1,6 +1,4 @@
-using HelpDesk.Results.Models;
-
-namespace HelpDesk.Results.Services;
+namespace HelpDesk.Results;
 
 public sealed class InMemoryTicketRepository : ITicketRepository
 {

@@ -1,4 +1,4 @@
-namespace HelpDesk.Results.Results;
+namespace HelpDesk.Results;
 
 public sealed class HtmlResult : IResult
 {

@@ -1,5 +1,4 @@
-using HelpDesk.Results.Results;
-using HelpDesk.Results.Services;
+using HelpDesk.Results;
 
 var builder = WebApplication.CreateBuilder(args);
 
